@@ -27,3 +27,6 @@ This bot loads custom commands from a text file named commands.txt in the same d
 `!coinflip=Flipping a coin...`<br>
 
 To use this code, create a commands.txt file in the same directory as the executable file and add your custom commands to the file in the format of command=response.
+
+
+**This Discord Bot was made for Educational Purposes as an Example**
